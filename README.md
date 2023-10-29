@@ -3,7 +3,7 @@
 ------
 
 
-<a href="https://binggamel.tistory.com" target="_blank">개발 공부, 건축 블로그 바로가기</a>
+<a href="https://binggamel.tistory.com" target="_blank">개발 공부, 건축 log</a>
 
 
 
